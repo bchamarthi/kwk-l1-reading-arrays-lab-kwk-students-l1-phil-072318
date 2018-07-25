@@ -30,5 +30,5 @@ def last_student_by_method
 end
 
 def first_second_and_third_students
- return STUDENT_NAMES.first_second_and_third_students
+ return STUDENT_NAMES first_second_and_third_students
 end
